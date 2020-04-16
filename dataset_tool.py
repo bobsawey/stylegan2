@@ -25,7 +25,7 @@ from training import dataset
 
 def error(msg):
     print('Error: ' + msg)
-    exit(1)
+    sys.exit(1)
 
 #----------------------------------------------------------------------------
 
